@@ -12,9 +12,3 @@ public class Employee {
     }
     // getters
     }
-    public int getId(){
-
-
-
-
-}

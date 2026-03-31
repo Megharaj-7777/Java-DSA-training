@@ -5,6 +5,5 @@ public class EncapDemo {
         Employee e1=new Employee();
         e1.setId(101);
         e1.setEmail("abc@gmail.com");
-        System.out.println(e1.ge);
     }
 }
